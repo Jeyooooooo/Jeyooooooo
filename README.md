@@ -14,7 +14,7 @@
 
 I use Python and SQL to find patterns, then build interfaces that make them easier to explore.
 Most of my recent work is on web apps built with **Next.js, React, TypeScript and Tailwind CSS**,
-usually as part of a team. I am always eager to learn, explore, and adapt to new technologies, tools, and stratiegies.
+usually as part of a team. I am always eager to learn, explore, and adapt to new technologies, tools, and strategies.
 
 ### Tech stack
 
